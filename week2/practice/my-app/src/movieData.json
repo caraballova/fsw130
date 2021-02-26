@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Coming 2 America",
+        "img": "",
+        "rated": "March 2021 PG-13"
+    },
+    {
+        "id": 2,
+        "title": "The King's Man",
+        "img": "",
+        "rated": "March 2021 Rated R"
+    },
+    {
+        "id": 4,
+        "title": "GodZilla vs Kong",
+        "img": "",
+        "rated": "March 2021 PG-13"
+    },
+    {
+        "id": 5,
+        "title": "Bios",
+        "img": "",
+        "rated": "April 2021 PG-13"
+    }
+]

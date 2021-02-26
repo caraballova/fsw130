@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+}
+
+.header {
+  background-color: black;
+  color: wheat;
+}
+
+.title {
+  color: blue;
+}
+
+.rated {
+  color: brown;
+}
+
+.footer {
+  padding: 5px;
+  background-color: aquamarine;
+}
