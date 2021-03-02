@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#header {
+  font-size: 25px;
+  padding: 10px;
+  margin: 20px;
+  color: blueviolet;
+}
+
+#total {
+  padding: 10px;
+  margin: 20px;
+  color: red;
+}
+
+img {
+  width: 200px;
+}
+
+#footer {
+  font-size: 15px;
+  padding: 15px;
+  margin: 25px;
+  background-color: blanchedalmond;
+  color: rgba(255, 0, 0, 0.705);
+}
