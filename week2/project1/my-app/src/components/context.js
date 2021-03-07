@@ -48,9 +48,9 @@ class ListContextProvider extends React.Component {
       [name]: value
     })
   }
-/* 
-  handleEdit(e) {
-     
+
+  /* handleEdit(e) {
+      let editBtn = document.getElementsByClassName("edit")
 
       // could not figure out how to incorporate edit button
       // will do more research to submit for a mastery grade
