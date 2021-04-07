@@ -1,0 +1,15 @@
+* {
+    text-align: center;
+}
+
+.nav {
+    overflow: hidden;
+    top: 0;
+    color: white;
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    padding: 14px 16px;
+    text-decoration: none;
+    word-spacing: 10px;
+}
